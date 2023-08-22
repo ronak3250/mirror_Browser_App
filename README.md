@@ -74,9 +74,14 @@ content.
   
 </p>
 <h1>Video File</h1>
-<video width="320" height="240" controls>
-  <source src="https://github.com/ronak3250/mirror_Browser_App/blob/main/output/demo1.mp4" type="video/mp4">
-  
-  <source src="https://github.com/ronak3250/mirror_Browser_App/blob/main/output/demo2.mp4" type="video/mp4">
-</video>
+
+
+
+https://github.com/ronak3250/mirror_Browser_App/assets/89035048/779a8274-d2fe-4a41-baa2-9119bbaaea0d
+
+
+
+https://github.com/ronak3250/mirror_Browser_App/assets/89035048/29688dce-3932-43ab-baf8-b450f8955327
+
+
 
